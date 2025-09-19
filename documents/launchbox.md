@@ -19,21 +19,30 @@ Of course the panel would not be complete, (nor look very good), without an exte
 <img src="../assets/images/IMG_7317.JPEG" alt="Circuit Diagram" height="300" />
 
 After a few 3D printing tests to get the tolerances right, the panel and holding plastic container both fit together, fit with the switches, and fit in the pelican case. I made sure to test fit all the parts, and once that was complete all that needed to be done was the soldering.
-#### PHOTO OF CASE WITH STUFF IN IT IMG_7407.JPEG
+
+<img src="../assets/images/IMG_7407.JPEG" alt="Case with panel test fit" height="300" />
+
 Without much soldering experience, this quickly became the most difficult part of the project. With a lot of places an error could pop up, I made sure to individually test the continuity of every electronic component before soldering. Even once connected to the larger system, I continued to test the power levels with an LED designed to handle larger voltages, using the brightness as an indicator.
-#### PHOTO OF WIRES IMG_7423.JPEG
+
+<img src="../assets/images/IMG_7423.JPEG" alt="Wires connected on the back of the panel" height="300" />
+
 After many late nights and hours of assembly, I finished the launch controller.
 Amazingly, it worked on the first test without further modifications.
-#### PHOTO OF FINISHED GOX IMG_7431.JPEG
+
+<img src="../assets/images/IMG_7431.JPEG" height="300" />
+
 Here is a photo of it being used on its first launch:
-#### IMG_7645.JPEG
+
+<img src="../assets/images/IMG_7645.JPEG" height="300" />
 
 ### Image Gallery:
-IMG_7389.JPEG
-IMG_7398.JPEG
-IMG_7420.JPEG
-IMG_7424.JPEG
-IMG_7425.JPEG
+
+<img src="../assets/images/IMG_7389.JPEG" height="300" />
+<img src="../assets/images/IMG_7398.JPEG" height="300" />
+<img src="../assets/images/IMG_7420.JPEG" height="300" />
+<img src="../assets/images/IMG_7424.JPEG" height="300" />
+<img src="../assets/images/IMG_7425.JPEG" height="300" />
+
 
 
 
